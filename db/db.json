@@ -1,0 +1,22 @@
+[
+  {
+    "title": "First note",
+    "text": "first note text",
+    "id": "0"
+  },
+  {
+    "title": "Second note title",
+    "text": "second note text",
+    "id": "1"
+  },
+  {
+    "title": "Third note title",
+    "text": "third note text",
+    "id": "2"
+  },
+  {
+    "title": "Fourth note title",
+    "text": "third note text",
+    "id": "3"
+  }
+]
