@@ -183,6 +183,3 @@ if (window.location.pathname === '/notes') {
 getAndRenderNotes();
 
 
-// Save Note Post Route when save button is clicked
-// saveNoteBtn.addEventListener("click", handleNoteSave);
-
